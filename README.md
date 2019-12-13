@@ -155,19 +155,19 @@ Cola中执行命令前面要加一个 " ! "，如卸载torch---`!pip uninstall t
 > - --epochs 100	#每个epoch都过一遍全部的训练图
 > - --cuda	#使用cuda
 
-![avatar](cola_010.png)
+![avatar](README_images/cola_010.png)
 
 ### 5、模型测试
 
 根据模型训练中找loss最小或者训练保存的最后几个模型
 
-![avatar](cola_011.png)
+![avatar](README_images/cola_011.png)
 
 其中①指代的是checksession，②指代的是checkepoch，③指代的是checkpoint，在object_det.py中输入
 
-![avatar](cola_007.png)
+![avatar](README_images/cola_007.png)
 
-![avatar](cola_008.png)
+![avatar](README_images/cola_008.png)
 
 得到MAP为0.5342
 
@@ -175,7 +175,7 @@ Cola中执行命令前面要加一个 " ! "，如卸载torch---`!pip uninstall t
 
 为了对模型有直观感受，对faster-rcnn.pytorch/images文件夹中的几张图片进行测试，运行demo.py
 
-![avatar](cola_009.png)
+![avatar](README_images/cola_009.png)
 
 运行结束后，打开faster-rcnn.pytorch/images，找到.det的图片查看模型效果。
 
