@@ -119,11 +119,11 @@ Cola的一些基础设置参考：https://www.jianshu.com/p/aee6360beab5
 
 ### 1、安装相应的库，进行授权绑定
 
-![avatar](cola_001.png)
+![avatar](README_images/cola_001.png)
 
 ### 2、挂载google drive
 
-![avatar](cola_002.png)
+![avatar](README_images/cola_002.png)
 
 ### 3、一些包的卸载和安装
 
