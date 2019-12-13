@@ -98,7 +98,7 @@ thresh我改成了0.5，可根据情况自行修改
 
 - #### 存放demo图片
 
-运行demo.py前记得把要测试的图片放入faster-rcnn.pytorch/images文件夹中
+运行demo.py前记得新建faster-rcnn.pytorch/images文件夹并把要演示的图片放入其中
 
 ## 三、Colaboratory运行
 
