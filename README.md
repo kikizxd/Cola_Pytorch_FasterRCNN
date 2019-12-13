@@ -94,7 +94,7 @@ faster-rcnn对于每个图片会给出300个检测框，显示的时候，会限
 （3）/faster-rcnn.pytorch/lib/model/utils/net_utils.py-------中的53行的vis_detections函数
 thresh我改成了0.5，可根据情况自行修改
 
-![avatar](cola_003.png)
+![avatar](README_images/cola_003.png)
 
 - #### 存放demo图片
 
