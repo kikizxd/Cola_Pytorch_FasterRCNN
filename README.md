@@ -185,7 +185,7 @@ Cola中执行命令前面要加一个 " ! "，如卸载torch---`!pip uninstall t
 
 将以上具体操作代码，整理如下
 
-```python
+```ipynb
 #1、安装相应的库，进行授权绑定
 !apt-get install -y -qq software-properties-common python-software-properties module-init-tools
 !add-apt-repository -y ppa:alessandro-strada/ppa 2>&1 > /dev/null
